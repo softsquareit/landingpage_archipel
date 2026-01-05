@@ -1,0 +1,795 @@
+{
+  "nav": {
+    "about": "Qui sommes nous?",
+    "pedagogy": "Notre pédagogie",
+    "packs": "Nos packs",
+    "contact": "Contact",
+    "parent": "Parent",
+    "signin": "Connexion",
+    "signup": "Inscription"
+  },
+  "hero": {
+    "title1": "Bienvenue",
+    "title2": "sur votre île de savoir",
+    "bodyTitle": "Apprenez, évoluez, explorez.",
+    "bodyDescription": "Apprenez, évoluez, explorez. Archipel vous accompagne vers la réussite scolaire, en ligne ou en centre.",
+    "buttonStart": "Commencer maintenant",
+    "parentsSatisfaction": "⭐⭐⭐⭐⭐ +3000 parents satisfaits",
+    "onlineFeatureTitle": "100% en ligne",
+    "onlineFeatureDescription": "Apprends oú tu veux, quand tu veux, avec un accompagnement personnalisé à distance",
+    "onsiteFeatureTitle": "Présentiel",
+    "onsiteFeatureDescription": "Progrèsse dans nos centres avec l'aide directe de nos enseignants qualifiés"
+  },
+  "footer": {
+    "description": "Il existe de nombreuses variations de passages de Lorem Ipsum disponibles, la majorité.",
+    "emailPlaceholder": "Entrez votre email",
+    "subscribeButton": "S’abonner",
+    "servicesTitle": "Services",
+    "service1": "Répondeur d’incidents",
+    "service2": "IT géré sécurisé",
+    "service3": "Vérifiez l’URL du site web",
+    "service4": "Sécurité du coffre-fort",
+    "aboutTitle": "À propos de nous",
+    "about1": "Plans de paiement",
+    "about2": "Rendre l’épargne plus facile",
+    "about3": "Calculateur d’impôts",
+    "about4": "Parlez-nous",
+    "contactInfoTitle": "Informations de contact",
+    "address": "455 West Orchard Street Kings Mountain, NC 280867",
+    "copyright": "© {year} Archipel Tous droits réservés"
+  },  
+  
+  "mission": {
+    "title": "Notre mission",
+    "descriptionPart1": "En tant que centre de ",
+    "descriptionPart2": "soutien scolaire",
+    "descriptionPart3": ", nous nous concentrons sur ",
+    "descriptionPart4": "les besoins de chaque élève",
+    "descriptionPart5": ". Nous offrons un ",
+    "descriptionPart6": "accompagnement personnalisé",
+    "descriptionPart7": " pour identifier les lacunes et ",
+    "descriptionPart8": "proposer des solutions adaptées."
+  },
+  "gridSection": {
+    "videoText": "Voir la vidéo",
+    "teachersCount": "+30",
+    "teachersDescription": "enseignants experts",
+    "studentsCount": "+2000",
+    "studentsDescription": "Élèves accompagnés",
+    "sessionsCount": "+400",
+    "sessionsDescription": "séances chaque mois",
+    "boyWithFlowerAlt": "Garçon en train de planter"
+  },
+  "onlineSection": {
+    "title": "Cours Online",
+    "description": "Une solution flexible pour apprendre efficacement chez soi, à son rythme, avec un encadrement régulier. Idéal pour les élèves autonomes ou avec un emploi du temps chargé.",
+    "button": "Commencer maintenant",
+    "features": { 
+      "training": { 
+        "title": "Entraînement Encadré",
+        "description": "Série d’exercices et devoirs corrigés"
+      },
+      "parentalInvolvement": {
+        "title": "Implication Parentale",
+        "description": "Suivi parentale quotidien via notre interface"
+      },
+      "fulfillment": {
+        "title": "Épanouissement",
+        "description": "Ateliers de développement personnel"
+      },
+      "schoolRhythm": {
+        "title": "Rythme Scolaire",
+        "description": "5 séances en ligne par semaine avec enseignants"
+      },
+      "gamified": {
+        "title": "Gamifiée avec ILONA",
+        "description": "Motivation ILONA: badges, défis"
+      },
+      "replays": {
+        "title": "Replays Illimités",
+        "description": "Replays disponibles à tout moment"
+      },
+      "fullProgram": {
+        "title": "Programme Complet",
+        "description": "Pack couvrant 7 matières fondamentales"
+      }
+    }
+  },
+
+
+
+  "onsiteSection": {
+    "title": "Cours en Présentiel",
+    "descriptionPart1": "Un accompagnement structuré dans nos centres Archipel, avec une présence physique rassurante pour les élèves et les familles.",
+    "descriptionPart2": "Parfait pour les élèves qui ont besoin d'un cadre stable et stimulant.",
+    "centersTitle": "🏫 Nos centres actuels :",
+    "center_lagoulette": "📍 La Goulette – Siège historique",
+    "center_elmenzah": "📍 El Menzah – Depuis août 2023",
+    "center_boumhal": "📍 Boumhal – Depuis août 2024",
+    "center_bardo": "📍 Bardo – Ouverture prévue août 2025",
+    "button": "Commencer maintenant",
+    "courses": {
+      "weeklyAssured": {
+        "title": "Hebdomadaire Assurée",
+        "desc": "5 séances par semaine dans nos centres."
+      },
+      "digitalAccess": {
+        "title": "Accès Numérique",
+        "desc": "Accès 24h/24 à notre plateforme numérique."
+      },
+      "videoOnDemand": {
+        "title": "Vidéo à la Demande",
+        "desc": "Enregistrements et capsules vidéos des cours."
+      },
+      "modernSkills": {
+        "title": "Compétence moderne",
+        "desc": "Ateliers pour développer les compétences."
+      },
+      "ilonaMotivation": {
+        "title": "Motivation avec ILONA.",
+        "desc": "Programme ILONA dans les routines du centre."
+      },
+      "schoolCurriculum": {
+        "title": "Parcours Scolaire",
+        "desc": "Pack complet toutes matières"
+      }
+    }
+  },
+  "hybrideSection": {
+    "titlePart1": "Cours en Mixte",
+    "titlePart2": "(Hybride)",
+    "descriptionPart1": "La flexibilité de l'online et la force du présentiel réunies pour un apprentissage équilibré.",
+    "descriptionPart2": "Parfait pour ceux qui veulent maximiser leur progression tout en optimisant leur emploi du temps.",
+    "button": "Commencer maintenant",
+    "features": {
+      "optimalBalance": {
+        "title": "Équilibre Optimal",
+        "desc": "3 matières en présentiel, 3 en ligne"
+      },
+      "doubleBenefit": {
+        "title": "Double Bénéfice",
+        "desc": "Tous les bénéfices du présentiel + ceux de l'online"
+      },
+      "resourceAccess": {
+        "title": "Accès aux ressources",
+        "desc": "Accès à la plateforme et contenus."
+      },
+      "hybridWorkshops": {
+        "title": "Ateliers Hybrides",
+        "desc": "Workshops en ligne et en centre"
+      },
+      "supervision": {
+        "title": "Encadrement",
+        "desc": "Suivi quotidien, programme ILONA"
+      },
+      "flexibleCurriculum": {
+        "title": "Parcours Flexible",
+        "desc": "Pack de 7 matières modulable"
+      }
+    }
+  },
+  
+  "testimonialsSection": {
+    "starfishAlt": "étoile de mer",
+    "title": "Témoignages",
+    "dotButtonLabel": "Aller au témoignage {index}",
+    "testimonials": {
+      "1": {
+        "name": "Nabiha",
+        "role": "Parent",
+        "text": "Je suis la mère de Rayan et Areej Qasmi, qui ont 5 ans et sont à ARCHIPEL. Au début, j'étais comme tous les parents, toujours inquiète pour l'éducation de mes enfants, mais la vérité est que lorsque j'ai commencé à les inscrire, j'étais très satisfaite et heureuse du niveau exceptionnel qu'ils ont atteint. Je tiens à les remercier tous. ARCHIPEL offre également à nos enfants des activités où ils peuvent développer leurs compétences et découvrir leurs capacités, et chaque fois qu'ils participent, ils rentrent chez eux ravis.",
+        "imageAlt": "Nabiha"
+      },
+      "2": {
+        "name": "Ameni",
+        "role": "Parent",
+        "text": "Je suis la mère de Rayan et Areej Qasmi, qui ont 5 ans et sont à ARCHIPEL. Au début, j'étais comme tous les parents, toujours inquiète pour l'éducation de mes enfants, mais la vérité est que lorsque j'ai commencé à les inscrire, j'étais très satisfaite et heureuse du niveau exceptionnel qu'ils ont atteint. Je tiens à les remercier tous. ARCHIPEL offre également à nos enfants des activités où ils peuvent développer leurs compétences et découvrir leurs capacités, et chaque fois qu'ils participent, ils rentrent chez eux ravis.",
+        "imageAlt": "Ameni"
+      }
+    }
+  },
+  "videoTestimonialsSection": {
+    "dotButtonLabel": "Aller au témoignage {index}",
+    "testimonials": {
+      "1": {
+        "name": "Ameni",
+        "role": "Parent",
+        "imageAlt": "Ameni"
+      },
+      "2": {
+        "name": "Sarrah",
+        "role": "Étudiante",
+        "imageAlt": "Sarrah"
+      },
+      "3": {
+        "name": "Ameni",
+        "role": "Parent",
+        "imageAlt": "Ameni"
+      },
+      "4": {
+        "name": "Sarrah",
+        "role": "Étudiante",
+        "imageAlt": "Sarrah"
+      }
+    }
+  },
+  "partnersSection": {
+    "title": "Nos partenaires",
+    "partnerLogoAlt": "{{partnerName}} Logo"
+  },
+  "coursesSection": {
+    "mainTitle": "Des cours qui développent des compétences.",
+    "buttonText": "Voir cours",
+    "courseCardDatePrefix": "Enregistré le :",
+    "courses": {
+      "1": {
+        "title": "Français",
+        "description": "Devoir De Synthèse N°3",
+        "date": "30 Mai 2025",
+        "altText": "Pratique de l'expression française"
+      },
+      "2": {
+        "title": "Anglais",
+        "description": "Getting ready for the end of term",
+        "date": "29 Mai 2025",
+        "altText": "Leçons d'anglais"
+      },
+      "3": {
+        "title": "Mathématiques",
+        "description": "Révision pour le contrôle numéro 5",
+        "date": "28 Mai 2025",
+        "altText": "Leçon de mathématiques"
+      },
+      "4": {
+        "title": "Japonais",
+        "description": "Devoir De Synthèse N°4",
+        "date": "30 Mai 2025",
+        "altText": "Pratique de l'expression japonaise"
+      },
+      "5": {
+        "title": "Mathématiques",
+        "description": "Getting ready for the end of term",
+        "date": "29 Mai 2025",
+        "altText": "Leçons de mathématiques"
+      },
+      "6": {
+        "title": "Espagnol",
+        "description": "Révision pour le contrôle numéro 5",
+        "date": "28 Mai 2025",
+        "altText": "Leçon d'espagnol"
+      }
+    }
+  },
+
+  "homeContactSection": {
+    "tag": "Nous contacter",
+    "title": "Rejoignez l'archipel du savoir dès maintenant.",
+    "description": "Que vous soyez parent ou élève, nos conseillers sont là pour vous guider vers la formule la plus adaptée à vos besoins.",
+    "callButton": "+216 22 082 410",
+    "formTitle": "Contactez-nous",
+    "formDescription": "Vous pouvez nous contacter à tout moment",
+    "namePlaceholder": "Nom et Prénom",
+    "submitButton": "Envoyer"
+  },
+  "locationsSection": {
+    "mainTitle": "Nos centres",
+    "subtitle": "Un réseau d'espaces d'apprentissage modernes, accessibles et inspirants",
+    "description": "Depuis 2016, Archipel grandit avec une ambition claire : se rapprocher des élèves, là où ils sont. Aujourd'hui, notre réseau s'étend sur plusieurs régions du Grand Tunis, et continue de se développer chaque année.",
+    "listHeader": "Nos centres :",
+    "schoolIconAlt": "Emplacements",
+    "pinIconAlt": "Emplacement",
+    "centers": {
+      "la_goulette": {
+        "title": "La Goulette – Siège historique",
+        "description": "Le tout premier centre Archipel, ouvert en 2016. Un espace chaleureux, point de départ de notre aventure pédagogique."
+      },
+      "boumhal": {
+        "title": "Boumhal – Depuis août 2024",
+        "description": "Pensé pour les familles de la banlieue sud, ce centre propose un cadre spacieux, calme et facilement accessible."
+      },
+      "el_menzah": {
+        "title": "El Menzah – Depuis août 2023",
+        "description": "Moderne, lumineux et au cœur d’un quartier dynamique, ce centre accueille des élèves de tous niveaux."
+      },
+      "bardo": {
+        "title": "Bardo – Ouverture prévue août 2025",
+        "description": "Un nouveau centre pour se rapprocher des élèves du Grand Ouest, avec les mêmes standards de qualité."
+      }
+    }
+  },
+  "ourCentersSection": {
+    "mainTitle": "Nos centres",
+    "subtitle": "Un réseau d'espaces d'apprentissage modernes, accessibles et inspirants",
+    "description": "Depuis 2016, Archipel grandit avec une ambition claire : se rapprocher des élèves, là où ils sont. Aujourd'hui, notre réseau s'étend sur plusieurs régions du Grand Tunis, et continue de se développer chaque année.",
+    "listHeader": "Nos centres actuels :",
+    "schoolIconAlt": "Emplacements",
+    "pinIconAlt": "Épingler l'emplacement",
+    "centers": {
+      "la_goulette": {
+        "title": "La Goulette – Siège historique",
+        "description": "Le tout premier centre Archipel, ouvert en 2016. Un espace chaleureux, point de départ de notre aventure pédagogique.",
+        "popupText": "Archipel - La Goulette"
+      },
+      "boumhal": {
+        "title": "Boumhal – Depuis août 2024",
+        "description": "Pensé pour les familles de la banlieue sud, ce centre propose un cadre spacieux, calme et facilement accessible.",
+        "popupText": "Archipel - Boumhal"
+      },
+      "el_menzah": {
+        "title": "El Menzah – Depuis août 2023",
+        "description": "Moderne, lumineux et au cœur d’un quartier dynamique, ce centre accueille des élèves de tous niveaux.",
+        "popupText": "Archipel - El Menzah"
+      },
+      "bardo": {
+        "title": "Bardo – Ouverture prévue août 2025",
+        "description": "Un nouveau centre pour se rapprocher des élèves du Grand Ouest, avec les mêmes standards de qualité.",
+        "popupText": "Archipel - Bardo"
+      }
+    }
+  },
+  "phoneInput": {
+    "placeholder": "Numéro de téléphone"
+  },
+  "pricingCard": {
+    "general": {
+      "discountMessage": "50% remise sur cette offre",
+      "buttonText": "Acheter",
+      "pricePer": "par",
+      "priceSuffix": ""
+    },
+    "options": {
+      "month": "Mois",
+      "quarter": "Trimestre",
+      "year": "Année"
+    },
+    "tabs": {
+      "online": "En ligne",
+      "onsite": "Présentiel",
+      "mix": "Mix"
+    },
+    "features": {
+      "interactive_exercises": "Exercices interactifs pour 4 matières (Français, Anglais, Math, SVT)",
+      "video_capsules": "Capsules vidéo pour 4 matières (Français, Anglais, Math, SVT)",
+      "online_session_recordings": "Enregistrements des séances en ligne pour 6 matières (Français, Anglais, Math, SVT, Arabe, Physique)",
+      "continuous_evaluation_tests": "Tests d'évaluations continues",
+      "online_sessions": "Des séances en ligne",
+      "remediation_sessions": "Des séances en ligne de remédiation",
+      "parental_monitoring": "Suivi parental",
+      "soft_skills_workshops": "Des workshop de soft skills en ligne",
+      "onsite_classes": "Cours en présentiel dans nos centres",
+      "face_to_face_support": "Accompagnement personnalisé en face à face",
+      "archilot_6_sessions_per_week": "6 séances en ligne/semaine",
+      "archilot_6_subjects": "6 matières (Français, Anglais, Math, SVT, Arabe, Physique)",
+      "archilot_interactive_exercises_6_subjects": "Exercices interactifs pour 6 matières",
+      "archilot_video_capsules_6_subjects": "Capsules vidéo pour 6 matières",
+      "archilot_all_online_session_recordings": "Enregistrements de toutes les séances en ligne",
+      "archilot_continuous_evaluation_tests": "Tests d’évaluations continues",
+      "archilot_online_sessions": "Des séances en ligne",
+      "archilot_remediation_sessions": "Des séances en ligne de remédiation",
+      "archilot_parental_monitoring": "Suivi parental",
+      "archilot_soft_skills_workshops": "Des workshop de soft skills en ligne",
+      "archilot_onsite_classes": "Cours en présentiel dans nos centres premium",
+      "archilot_face_to_face_support": "Accompagnement personnalisé en face à face avec enseignants experts"
+    },
+    "offers": {
+      "ilot": {
+        "title": "Îlot",
+        "imageAlt": "Offre Îlot 9+"
+      },
+      "archilot": {
+        "title": "Archilot",
+        "imageAlt": "Offre Archilot"
+      }
+    }
+  },
+  "offersPage": {
+    "hero": {
+      "title": "Choisissez l'offre qui vous convient",
+      "subtitle": "Parce que chaque élève a des besoins et un rythme qui lui sont propres, nous vous proposons trois formats d'accompagnement pensés pour s'adapter à toutes les situations.",
+      "description": "Que vous préfériez apprendre à distance, en centre ou combiner les deux, nos offres vous garantissent un suivi personnalisé, un contenu pédagogique riche et un accompagnement motivant à chaque étape.",
+      "buttonText": "Commencer maintenant"
+    },
+    "educationLevels": {
+      "sectionTitle": "Sélectionnez votre profil",
+      "levels": {
+        "primary": {
+          "title": "Je suis un élève du primaire",
+          "description": "J'apprends en m'amusant et je construis mes bases solides."
+        },
+        "college": {
+          "title": "Je suis un collégien",
+          "description": "Je développe mes compétences et je prends confiance en moi."
+        },
+        "lycee": {
+          "title": "Je suis un lycéen",
+          "description": "Je me prépare aux examens et j'approfondis mes connaissances."
+        },
+        "bachelier": {
+          "title": "Je suis un futur bachelier",
+          "description": "Je vise l'excellence pour réussir mon bac et mon avenir."
+        }
+      }
+    },
+    "specialOffers": {
+      "sectionTitle": "Offres Exceptionnelles à ne Pas Manquer",
+      "sectionDescription": "Des réductions exclusives pour apprendre plus et dépenser moins !",
+      "cardDiscount": "-50% sur ce pack",
+      "cardButtonText": "Voir plus",
+      "offers": {
+        "1": {
+          "title": "Offre Fidélité Immanquable",
+          "description": "Profitez de l'apprentissage au meilleur prix avec un engagement d'un an."
+        },
+        "2": {
+          "title": "Nouvelle Ouverture, Nouvelle Opportunité",
+          "description": "Pour toute inscription au nouveau centre de Bardo. Offre limitée pour les premiers inscrits !"
+        },
+        "3": {
+          "title": "Famille Nombreuse, Avantage Généreux",
+          "description": "À partir du deuxième enfant inscrit, chaque frère ou sœur bénéficie d'une réduction exclusive."
+        }
+      }
+    },
+    "pricing": {
+      "sectionTitle": "Découvrer nos tarifs",
+      "sectionDescription": "Nos solutions s'adaptent à vous, nos tarifs de cours à domicile, en ligne ou en centre aussi !"
+    }
+  },
+
+  "contactPage": {
+    "contactSection": {
+      "tag": "Nous contacter",
+      "title": "Rejoignez l’archipel du savoir dès maintenant.",
+      "description": "Que vous soyez parent ou élève, nos conseillers sont là pour vous guider vers la formule la plus adaptée à vos besoins.",
+      "phone": "+216 22 082 410",
+      "email": "contact@archipelmix.com",
+      "formTitle": "Contactez-nous",
+      "formSubtitle": "Vous pouvez nous contacter à tout moment",
+      "firstNamePlaceholder": "Prénom",
+      "lastNamePlaceholder": "Nom",
+      "messagePlaceholder": "Comment pouvons-nous aider ?",
+      "submitButton": "Envoyer"
+    },
+    "centersSection": {
+      "mainTitle": "Nos centres",
+      "subtitle": "Un réseau d’espaces d’apprentissage modernes, accessibles et inspirants",
+      "description": "Depuis 2016, Archipel grandit avec une ambition claire : se rapprocher des élèves, là où ils sont. Aujourd’hui, notre réseau s’étend sur plusieurs régions du Grand Tunis, et continue de se développer chaque année.",
+      "currentCentersLabel": "Nos centres actuels :",
+      "centerPopup": "Archipel est ici",
+      "list": {
+        "la_goulette": {
+          "title": "La Goulette – Siège historique",
+          "description": "Le tout premier centre Archipel, ouvert en 2016. Un espace chaleureux, point de départ de notre aventure pédagogique."
+        },
+        "boumhal": {
+          "title": "Boumhal – Depuis août 2024",
+          "description": "Pensé pour les familles de la banlieue sud, ce centre propose un cadre spacieux, calme et facilement accessible."
+        },
+        "el_menzah": {
+          "title": "El Menzah – Depuis août 2023",
+          "description": "Moderne, lumineux et au cœur d’un quartier dynamique, ce centre accueille des élèves de tous niveaux."
+        },
+        "bardo": {
+          "title": "Bardo – Ouverture prévue août 2025",
+          "description": "Un nouveau centre pour se rapprocher des élèves du Grand Ouest, avec les mêmes standards de qualité."
+        }
+      }
+    }
+  },
+  "aboutPage": {
+    "heroSection": {
+      "title": "Qui sommes-nous ?",
+      "description": "Chez Archipel, nous croyons que chaque élève est une île unique, renfermant des trésors de compétences et de capacités... Il suffit de quelqu’un pour les découvrir et les développer."
+    },
+    "historySection": {
+      "mobileHeaderTitle": "Découvrez  l'histoire d'Archipel ...",
+      "mobileHeaderDescription1": "Depuis notre lancement en 2016 à notre centre de Laouina, nous poursuivons un seul objectif : offrir un soutien scolaire efficace, stimulant et complet.",
+      "mobileHeaderDescription2": "Après plusieurs années d'expérimentation et d'évolution, Archipel est aujourd'hui un système éducatif pionnier qui combine enseignement en présentiel et apprentissage numérique intelligent :",
+      "buttonText": "Voir notre historique",
+      "historyItems": {
+        "2016": {
+          "title": "2016 - Naissance d'Archipel",
+          "description": "Lancement de notre premier centre à La Goulette avec une vision audacieuse : Accompagner chaque élève dans sa réussite scolaire et personnelle."
+        },
+        "2021": {
+          "title": "Septembre 2021 - Le numérique entre en scène",
+          "description": "Lancement de ArchipelMix, notre plateformedigitale de soutien scolaire à distance.Une nouvelle ère d'apprentissage flexible et intelligent commence."
+        },
+        "2023": {
+          "title": "Août 2023 - Expansion à El Menzah",
+          "description": "Ouverture du deuxième centre Archipel à El Menzah.Un pas de plus vers la proximité avec nos élèves."
+        },
+        "2024": {
+          "title": "Août 2024 - Un nouveau centre à Boumhal",
+          "description": "Archipel continue de grandir avec l'ouverture du troisième centre, pour toucher encore plus de jeunes apprenants."
+        },
+        "2025": {
+          "title": "Août 2025 - Bienvenue au Bardo !",
+          "description": "Inauguration de notre quatrième centre au Bardo. Archipel devient une référence nationale en matière de soutien scolaire hybride."
+        }
+      }
+    },
+    "missionSection": {
+      "title": "Notre mission",
+      "description": "Accompagner chaque élève dans un parcours éducatif global, en lui permettant :",
+      "cards": {
+        "structured-courses": {
+          "title": "Cours structurés",
+          "description": "Des cours de soutien scolaire organisés, riches et adaptés à chaque niveau."
+        },
+        "updated-content": {
+          "title": "Contenu actualisé",
+          "description": "Un contenu pédagogique renouvelé et conforme aux programmes officiels."
+        },
+        "qualified-teachers": {
+          "title": "Enseignants qualifiés",
+          "description": "Des enseignants expérimentés, attentifs à l'explication, à la motivation et au suivi."
+        },
+        "personalized-followup": {
+          "title": "Suivi personnalisé",
+          "description": "Des évaluations régulières et un suivi individualisé du niveau, de la présence et du comportement."
+        },
+        "skill-workshops": {
+          "title": "Ateliers de compétences",
+          "description": "Des ateliers pour renforcer les compétences du 21e siècle (pensée, organisation, expression...)."
+        },
+        "digital-platform": {
+          "title": "Plateforme numérique",
+          "description": "Une plateforme digitale, ArchipelMix, qui facilite l'apprentissage et le suivi à tout moment."
+        }
+      }
+    },
+    "visionSection": {
+      "title": "Notre vision",
+      "description": "Être la référence n°1 en Tunisie dans le domaine du soutien scolaire mixte, grâce à un archipel de centres et de plateformes numériques, accessible à chaque élève, quel que soit son lieu ou son niveau.",
+      "buttonText": "Commencer maintenant"
+    },
+    "valuesSection": {
+      "title": "Nos Valeurs",
+      "cards": {
+        "innovation": {
+          "description": "Nous utilisons des méthodes et des outils pédagogiques modernes et innovants.",
+          "label": "Innovation"
+        },
+        "trust": {
+          "description": "Nous croyons que la relation entre parent, élève et enseignant repose sur le respect mutuel.",
+          "label": "Confiance"
+        },
+        "empathy": {
+          "description": "Nous comprenons les situations de chaque élève et l'accompagnons avec souplesse et attention.",
+          "label": "Empathie"
+        },
+        "honesty": {
+          "description": "Nous nous engageons à la sincérité et à la clarté dans toutes nos interactions.",
+          "label": "Honnêteté"
+        },
+        "transparency": {
+          "description": "Nous assurons un suivi clair et continu pour les parents.",
+          "label": "Transparence"
+        }
+      }
+    },
+    "teachersSection": {
+      "mainTitlePart1": "Enseignants passionnés,",
+      "mainTitlePart2": "au cœur de la réussite.",
+      "description": "Chez Archipel, nos enseignants sont soigneusement sélectionnés pour leur expertise, leur bienveillance et leur engagement. Ils accompagnent chaque élève avec rigueur, méthode et humanité.",
+      "call":"Découvrez nos enseignants",
+      "teachersList": {
+        "mehdi_zribi": {
+          "name": "Mehdi Zribi",
+          "experience": "15 ans d'enseignement"
+        },
+        "nada_ben_salah": {
+          "name": "Nada Ben Salah",
+          "experience": "8 ans d'expérience en France"
+        },
+        "yassine_khemiri": {
+          "name": "Yassine Khemiri",
+          "experience": "Enseignant depuis 10 ans"
+        },
+        "ala_gharbi": {
+          "name": "Ala Gharbi",
+          "experience": "12 ans d'expérience"
+        }
+      }
+    }
+  },
+  "pedagogyPage": {
+    "heroSection": {
+      "title": "Notre pédagogie",
+      "description": "Chez Archipel, nous croyons que chaque élève apprend à son rythme. Notre approche pédagogique différenciée s'adapte aux besoins de chacun, tout en offrant un cadre structuré, motivant et bienveillant."
+    },
+    "howItWorksSection": {
+      "titlePart1": "Comment",
+      "titlePart2": "ça Fonctionne ?",
+      "description1": "Nous évaluons d'abord le rythme et les besoins de chaque élève à travers :",
+      "bullet1": "Des tests de positionnement",
+      "bullet2": "Des entretiens individualisés",
+      "bullet3": "L'observation continue en classe ou via la plateforme",
+      "description2": "Ensuite, nous répartissons les élèves selon quatre profils de rythme, qui ne sont ni figés ni hiérarchiques. Un élève peut évoluer d'un profil à l'autre selon ses progrès.",
+      "buttonText": "Commencer maintenant",
+      "imageAlt": "Des élèves dans une salle de classe"
+    },
+    "rhythmSection": {
+      "title": "Nos 4 profils de rythme d’apprentissage",
+      "cards": {
+        "slow_rhythm": {
+          "title": "1. Le rythme lent",
+          "quote": "J'ai besoin de temps, de répétition et d'encouragement.",
+          "descriptionPhrases": [
+            "Compréhension plus lente mais profonde",
+            "Besoin d'un accompagnement rapproché et de reformulations",
+            "Accès à des ressources simplifiées et à un suivi renforcé",
+            "Activités décomposées et structurées pas à pas"
+          ]
+        },
+        "medium_rhythm": {
+          "title": "2. Le rythme moyen",
+          "quote": "J'avance à un bon rythme, mais un petit coup de pouce me fait toujours du bien.",
+          "descriptionPhrases": [
+            "Compréhension régulière et équilibrée",
+            "Accompagnement ponctuel pour consolider certaines notions",
+            "Exercices de consolidation et mise en pratique variée"
+          ]
+        },
+        "fast_rhythm": {
+          "title": "3. Le rythme rapide",
+          "quote": "Je comprends vite et j'aime approfondir.",
+          "descriptionPhrases": [
+            "Bonne autonomie dans l'apprentissage",
+            "Activités d'enrichissement, approfondissement des notions",
+            "Défis supplémentaires, mini-projets, discussions guidées"
+          ]
+        },
+        "very_fast_rhythm": {
+          "title": "4. Le rythme très rapide",
+          "quote": "Je cherche à me dépasser et relever des défis.",
+          "descriptionPhrases": [
+            "Curiosité académique, logique, goût pour la nouveauté.",
+            "Parcours accéléré, projets personnels, mentorat ciblé.",
+            "Ateliers de haut niveau (débat, méthodologie, etc.)"
+          ]
+        }
+      }
+    },
+    "archipelMixSection": {
+      "titlePart1": "ArchipelMix",
+      "titlePart2": "Apprendre à son rythme,",
+      "titlePart3": "partout, à tout moment",
+      "description": "Avec ArchipelMix, chaque élève dispose d'un espace personnel pour revoir ses leçons, s'évaluer et progresser à son propre rythme. Accessible 24h/24, notre plateforme combine vidéo, interactivité et suivi personnalisé.",
+      "buttonText": "Voir moins",
+      "cards": {
+        "short_units": {
+          "title": "Cours organisés en unités courtes"
+        },
+        "clear_videos": {
+          "title": "Vidéos explicatives simples et claires"
+        },
+        "self_assessments": {
+          "title": "Auto-évaluations après chaque notion"
+        },
+        "realtime_progress": {
+          "title": "Suivi de progression en temps réel"
+        }
+      }
+    },
+    "ilonaSection": {
+      "title": "ILONA – Notre programme",
+      "subtitle": "de motivation et de succès",
+      "description": "Pour garder les élèves engagés et motivés, nous avons créé ILONA, un programme qui récompense :",
+      "features": {
+        "regular_attendance": {
+          "title": "Assiduité régulière",
+          "description": "Être présent régulièrement, c'est s'engager pleinement dans son apprentissage."
+        },
+        "active_participation": {
+          "title": "Participation active",
+          "description": "Participer en classe aide à mieux comprendre, à s'exprimer et à gagner en confiance."
+        },
+        "academic_progress": {
+          "title": "Progrès académique",
+          "description": "Chaque amélioration, petite ou grande, est reconnue et encouragée."
+        },
+        "positive_behavior": {
+          "title": "Comportement positif en classe",
+          "description": "Respect et attitude positive créent un climat d'apprentissage motivant."
+        }
+      }
+    }
+  },
+  "parentAccountPage": {
+    "headerSection": {
+      "titlePart1": "Votre compte parent,",
+      "titlePart2": "un tableau de bord",
+      "titlePart3": "pour accompagner",
+      "titlePart4": "vos enfants",
+      "description": "Un espace simple, intuitif et sécurisé pour suivre tous les aspects de la scolarité de vos enfants… en un seul endroit.",
+      "buttonText": "Se connecter à mon compte parent",
+      "satisfiedParents": "+3000 parents satisfaits",
+      "imageAlt": "Tableau de bord parent",
+      "stats": {
+        "students_accompanied": "Élèves accompagnés",
+        "success_rate": "Taux de succès",
+        "satisfaction_score": "Score de satisfaction"
+      }
+    },
+    "ctaSection": {
+      "title": "Gérer tous vos enfants depuis un seul compte",
+      "descriptionPart1": "Un espace centralisé, simple et intuitif, pour suivre leur progression, leur",
+      "descriptionPart2": "assiduité, leurs résultats et bien plus encore - le tout en un clin d'œil.",
+      "buttonText": "Commencer maintenant"
+    },
+    "scolariteSection": {
+      "title": "Une scolarité transparente et accessible",
+      "descriptionPart1": "Restez connecté à la scolarité de vos enfants en temps réel. Grâce à un suivi clair et structuré, vous avez une vision complète de",
+      "descriptionPart2": "leur engagement et de leur progression.",
+      "items": {
+        "attendance": {
+          "title": "Assiduité",
+          "description": "Présences et absences mises à jour"
+        },
+        "evaluation_results": {
+          "title": "Résultats des évaluations",
+          "description": "Suivi des performances scolaires"
+        },
+        "homework": {
+          "title": "Travaux à la maison",
+          "description": "Liste des devoirs à faire"
+        }
+      }
+    },
+    "ilonaSection": {
+      "wavesAlt": "Ondes décoratives",
+      "tagline": "🏆 Ilona points",
+      "title": "Suivi du programme Ilona",
+      "descriptionPart1": "Le programme Ilona est conçu pour valoriser les efforts de chaque enfant.",
+      "descriptionPart2": "Grâce à un système de points et de récompenses, il stimule la motivation tout en encourageant l'autonomie et la régularité.",
+      "descriptionPart3": "Depuis votre compte parent, vous avez une vue complète sur leur progression.",
+      "items": {
+        "ilona_program": {
+          "title": "Programme Ilona",
+          "paragraph1": "Un système motivant et ludique",
+          "paragraph2": "Vos enfants gagnent des points en fonction de leur engagement et de leurs progrès."
+        },
+        "unlockable_gifts": {
+          "title": "Cadeaux à débloquer",
+          "paragraph1": "Des récompenses pour les encourager",
+          "paragraph2": "Les points accumulés permettent d'obtenir des cadeaux utiles ou amusants."
+        },
+        "realtime_tracking": {
+          "title": "Suivi en temps réel",
+          "paragraph1": "Visualisez leurs performances",
+          "paragraph2": "Accédez à l'historique des points, aux badges gagnés et aux récompenses reçues."
+        }
+      }
+    },
+    "importantMomentsSection": {
+      "title": "Ne manquez aucun moment important",
+      "description": "Restez informé des actualités essentielles, des prochains cours en direct, ainsi que du calendrier des ateliers et événements. Recevez également des notifications et des rappels personnalisés pour ne rien manquer."
+    },
+    "alertsAndRemindersSection": {
+      "title": "Alertes et rappels automatiques",
+      "imageAlt": "Mes cours"
+    },
+    "workshopCalendarSection": {
+      "title": "Calendrier des workshops",
+      "imageAlt": "Calendrier des workshops"
+    },
+    "upcomingCoursesSection": {
+      "title": "Cours en live à venir",
+      "imageAlt": "Cours à venir"
+    },
+    "archipelHistorySection": {
+      "titlePart1": "Découvrez",
+      "titlePart2": "l'histoire d'Archipel…",
+      "description1": "Depuis notre lancement en 2016 à notre centre de Laouina, nous poursuivons un seul objectif : offrir un soutien scolaire efficace, stimulant et complet, permettant aux élèves d'exceller sur le plan académique et de s'épanouir sur le plan personnel.",
+      "description2": "Après plusieurs années d'expérimentation et d'évolution, Archipel est aujourd'hui un système éducatif pionnier qui combine enseignement en présentiel et apprentissage numérique intelligent :",
+      "buttonText": "Voir notre historique"
+    }
+  },
+  "contactBubble": {
+    "availableText": "Je suis disponible au",
+    "phoneNumber": "+216 22 082 410"
+  }
+
+}

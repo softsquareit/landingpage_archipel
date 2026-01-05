@@ -1,0 +1,95 @@
+{
+  "features": {
+    "interactive_exercises": { "fr": "Exercices interactifs", "ar": "تمارين تفاعلية" },
+    "video_capsules": { "fr": "Capsules vidéo", "ar": "كبسولات فيديو" },
+    "online_session_recordings": { "fr": "Enregistrements des séances en ligne", "ar": "تسجيلات الجلسات عبر الإنترنت" },
+    "continuous_evaluation_tests": { "fr": "Tests d'évaluation continue", "ar": "اختبارات التقييم المستمر" },
+    "online_sessions": { "fr": "Séances en ligne", "ar": "جلسات عبر الإنترنت" },
+    "remediation_sessions": { "fr": "Séances de remédiation", "ar": "جلسات المعالجة" },
+    "parental_monitoring": { "fr": "Suivi parental", "ar": "المتابعة الأبوية" },
+    "soft_skills_workshops": { "fr": "Ateliers de soft skills", "ar": "ورش المهارات الناعمة" },
+    "onsite_classes": { "fr": "Cours en présentiel", "ar": "دروس حضورية" },
+    "face_to_face_support": { "fr": "Accompagnement en face à face", "ar": "الدعم وجهاً لوجه" },
+    "archilot_6_sessions_per_week": { "fr": "6 séances par semaine", "ar": "6 جلسات في الأسبوع" },
+    "archilot_6_subjects": { "fr": "6 matières", "ar": "6 مواد" },
+    "archilot_interactive_exercises_6_subjects": { "fr": "Exercices interactifs pour 6 matières", "ar": "تمارين تفاعلية لـ 6 مواد" },
+    "archilot_video_capsules_6_subjects": { "fr": "Capsules vidéo pour 6 matières", "ar": "كبسولات فيديو لـ 6 مواد" },
+    "archilot_all_online_session_recordings": { "fr": "Tous les enregistrements des séances en ligne", "ar": "جميع تسجيلات الجلسات عبر الإنترنت" },
+    "archilot_continuous_evaluation_tests": { "fr": "Tests d'évaluation continue", "ar": "اختبارات التقييم المستمر" },
+    "archilot_online_sessions": { "fr": "Séances en ligne", "ar": "جلسات عبر الإنترنت" },
+    "archilot_remediation_sessions": { "fr": "Séances de remédiation", "ar": "جلسات المعالجة" },
+    "archilot_parental_monitoring": { "fr": "Suivi parental", "ar": "المتابعة الأبوية" },
+    "archilot_soft_skills_workshops": { "fr": "Ateliers de soft skills", "ar": "ورش المهارات الناعمة" },
+    "archilot_onsite_classes": { "fr": "Cours en présentiel", "ar": "دروس حضورية" },
+    "archilot_face_to_face_support": { "fr": "Accompagnement en face à face", "ar": "الدعم وجهاً لوجه" }
+  },
+  "tabs": {
+    "online": { "fr": "En ligne", "ar": "عبر الإنترنت" },
+    "onsite": { "fr": "Présentiel", "ar": "حضوري" },
+    "mix": { "fr": "Hybride", "ar": "هجين" }
+  },
+  "options": {
+    "month": { "fr": "Mois", "ar": "شهر" },
+    "quarter": { "fr": "Trimestre", "ar": "ربع سنة" },
+    "year": { "fr": "Année", "ar": "سنة" }
+  },
+  "general": {
+    "priceSuffix": { "fr": "/mois", "ar": "/شهر" },
+    "buttonText": { "fr": "S'inscrire maintenant", "ar": "سجل الآن" },
+    "discountMessage": { "fr": "Économisez 20% avec l'offre Archilot", "ar": "وفر 20٪ مع عرض أرشيلوت" }
+  },
+  "imageAlt": {
+    "ilot": { "fr": "Image Îlot", "ar": "صورة إيلوت" },
+    "archilot": { "fr": "Image Archilot", "ar": "صورة أرشيلوت" }
+  },
+  "levels": {
+    "primary": {
+      "ilot": {
+        "online": ["interactive_exercises", "video_capsules", "online_session_recordings", "continuous_evaluation_tests"],
+        "onsite": ["interactive_exercises", "video_capsules", "onsite_classes", "face_to_face_support", "remediation_sessions", "parental_monitoring"],
+        "mix": ["interactive_exercises", "video_capsules", "online_session_recordings", "continuous_evaluation_tests", "onsite_classes", "online_sessions", "remediation_sessions", "parental_monitoring", "soft_skills_workshops"]
+      },
+      "archilot": {
+        "online": ["archilot_6_sessions_per_week", "archilot_6_subjects", "archilot_interactive_exercises_6_subjects", "archilot_video_capsules_6_subjects", "archilot_all_online_session_recordings", "archilot_continuous_evaluation_tests", "archilot_online_sessions", "archilot_parental_monitoring"],
+        "onsite": ["archilot_6_sessions_per_week", "archilot_6_subjects", "archilot_interactive_exercises_6_subjects", "archilot_video_capsules_6_subjects", "archilot_onsite_classes", "archilot_face_to_face_support", "archilot_remediation_sessions", "archilot_parental_monitoring", "archilot_soft_skills_workshops"],
+        "mix": ["archilot_6_sessions_per_week", "archilot_6_subjects", "archilot_interactive_exercises_6_subjects", "archilot_video_capsules_6_subjects", "archilot_all_online_session_recordings", "archilot_continuous_evaluation_tests", "archilot_onsite_classes", "archilot_online_sessions", "archilot_remediation_sessions", "archilot_parental_monitoring", "archilot_soft_skills_workshops"]
+      }
+    },
+    "college": {
+      "ilot": {
+        "online": ["interactive_exercises", "video_capsules", "online_session_recordings", "continuous_evaluation_tests", "online_sessions", "parental_monitoring"],
+        "onsite": ["interactive_exercises", "video_capsules", "onsite_classes", "face_to_face_support", "online_sessions", "remediation_sessions", "parental_monitoring", "soft_skills_workshops"],
+        "mix": ["interactive_exercises", "video_capsules", "online_session_recordings", "continuous_evaluation_tests", "onsite_classes", "online_sessions", "remediation_sessions", "parental_monitoring", "soft_skills_workshops"]
+      },
+      "archilot": {
+        "online": ["archilot_6_sessions_per_week", "archilot_6_subjects", "archilot_interactive_exercises_6_subjects", "archilot_video_capsules_6_subjects", "archilot_all_online_session_recordings", "archilot_continuous_evaluation_tests", "archilot_online_sessions", "archilot_remediation_sessions", "archilot_parental_monitoring"],
+        "onsite": ["archilot_6_sessions_per_week", "archilot_6_subjects", "archilot_interactive_exercises_6_subjects", "archilot_video_capsules_6_subjects", "archilot_onsite_classes", "archilot_face_to_face_support", "archilot_online_sessions", "archilot_remediation_sessions", "archilot_parental_monitoring", "archilot_soft_skills_workshops"],
+        "mix": ["archilot_6_sessions_per_week", "archilot_6_subjects", "archilot_interactive_exercises_6_subjects", "archilot_video_capsules_6_subjects", "archilot_all_online_session_recordings", "archilot_continuous_evaluation_tests", "archilot_onsite_classes", "archilot_online_sessions", "archilot_remediation_sessions", "archilot_parental_monitoring", "archilot_soft_skills_workshops"]
+      }
+    },
+    "lycee": {
+      "ilot": {
+        "online": ["interactive_exercises", "video_capsules", "online_session_recordings", "continuous_evaluation_tests", "online_sessions", "remediation_sessions", "parental_monitoring"],
+        "onsite": ["interactive_exercises", "video_capsules", "onsite_classes", "face_to_face_support", "online_sessions", "remediation_sessions", "parental_monitoring", "soft_skills_workshops"],
+        "mix": ["interactive_exercises", "video_capsules", "online_session_recordings", "continuous_evaluation_tests", "onsite_classes", "online_sessions", "remediation_sessions", "parental_monitoring", "soft_skills_workshops"]
+      },
+      "archilot": {
+        "online": ["archilot_6_sessions_per_week", "archilot_6_subjects", "archilot_interactive_exercises_6_subjects", "archilot_video_capsules_6_subjects", "archilot_all_online_session_recordings", "archilot_continuous_evaluation_tests", "archilot_online_sessions", "archilot_remediation_sessions", "archilot_parental_monitoring", "archilot_soft_skills_workshops"],
+        "onsite": ["archilot_6_sessions_per_week", "archilot_6_subjects", "archilot_interactive_exercises_6_subjects", "archilot_video_capsules_6_subjects", "archilot_onsite_classes", "archilot_face_to_face_support", "archilot_online_sessions", "archilot_remediation_sessions", "archilot_parental_monitoring", "archilot_soft_skills_workshops"],
+        "mix": ["archilot_6_sessions_per_week", "archilot_6_subjects", "archilot_interactive_exercises_6_subjects", "archilot_video_capsules_6_subjects", "archilot_all_online_session_recordings", "archilot_continuous_evaluation_tests", "archilot_onsite_classes", "archilot_online_sessions", "archilot_remediation_sessions", "archilot_parental_monitoring", "archilot_soft_skills_workshops"]
+      }
+    },
+    "bachelier": {
+      "ilot": {
+        "online": ["interactive_exercises", "video_capsules", "online_session_recordings", "continuous_evaluation_tests", "online_sessions", "remediation_sessions", "parental_monitoring", "soft_skills_workshops"],
+        "onsite": ["interactive_exercises", "video_capsules", "onsite_classes", "face_to_face_support", "online_sessions", "remediation_sessions", "parental_monitoring", "soft_skills_workshops"],
+        "mix": ["interactive_exercises", "video_capsules", "online_session_recordings", "continuous_evaluation_tests", "onsite_classes", "online_sessions", "remediation_sessions", "parental_monitoring", "soft_skills_workshops"]
+      },
+      "archilot": {
+        "online": ["archilot_6_sessions_per_week", "archilot_6_subjects", "archilot_interactive_exercises_6_subjects", "archilot_video_capsules_6_subjects", "archilot_all_online_session_recordings", "archilot_continuous_evaluation_tests", "archilot_online_sessions", "archilot_remediation_sessions", "archilot_parental_monitoring", "archilot_soft_skills_workshops"],
+        "onsite": ["archilot_6_sessions_per_week", "archilot_6_subjects", "archilot_interactive_exercises_6_subjects", "archilot_video_capsules_6_subjects", "archilot_onsite_classes", "archilot_face_to_face_support", "archilot_online_sessions", "archilot_remediation_sessions", "archilot_parental_monitoring", "archilot_soft_skills_workshops"],
+        "mix": ["archilot_6_sessions_per_week", "archilot_6_subjects", "archilot_interactive_exercises_6_subjects", "archilot_video_capsules_6_subjects", "archilot_all_online_session_recordings", "archilot_continuous_evaluation_tests", "archilot_onsite_classes", "archilot_online_sessions", "archilot_remediation_sessions", "archilot_parental_monitoring", "archilot_soft_skills_workshops"]
+      }
+    }
+  }
+}

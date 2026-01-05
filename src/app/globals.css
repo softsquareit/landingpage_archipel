@@ -1,0 +1,58 @@
+@keyframes colorSwitch {
+  0%   { background: #9a7bd1; }
+  50%  { background: #ffffff; }
+  100% { background: #9a7bd1; }
+}
+@keyframes strokeSwitch {
+  0%   { stroke: #ffffff; }
+  50%  { stroke: #9a7bd1; }
+  100% { stroke: #ffffff; }
+}
+.animated-bg {
+  animation: colorSwitch 3s linear infinite;
+}
+.animated-stroke {
+  animation: strokeSwitch 3s linear infinite;
+}
+@import "tailwindcss";
+
+@keyframes float {
+    0% {
+      transform: translateY(0px) rotate(0deg);
+      box-shadow: 0 5px 15px 0px rgba(0,0,0,0.1);
+    }
+    25% {
+      transform: translateY(-4px) rotate(-3deg);
+      box-shadow: 0 15px 20px 0px rgba(0,0,0,0.15);
+    }
+    50% {
+      transform: translateY(-8px) rotate(3deg); /* Adjust for desired float height */
+      box-shadow: 0 25px 30px 0px rgba(0,0,0,0.2); /* Adjust for desired shadow spread */
+    }
+    75% {
+      transform: translateY(-4px) rotate(-3deg);
+      box-shadow: 0 15px 20px 0px rgba(0,0,0,0.15);
+    }
+    100% {
+      transform: translateY(0px) rotate(0deg);
+      box-shadow: 0 5px 15px 0px rgba(0,0,0,0.1);
+    }
+  }
+  
+  .animate-float {
+    animation: float 6s ease-in-out infinite; /* Adjust duration as needed */
+  }
+  /* hide scrollbar but allow scrolling */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none;  /* IE/Edge */
+  scrollbar-width: none;     /* Firefox */
+}
+.font-title{
+  font-family: var(--font-bricolage);
+}
+.history-card{
+  @apply absolute top-0 left-0 h-full w-full;
+}

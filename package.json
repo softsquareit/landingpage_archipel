@@ -1,0 +1,42 @@
+{
+  "name": "archipel",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "framer-motion": "^12.23.6",
+    "gsap": "^3.13.0",
+    "leaflet": "^1.9.4",
+    "libphonenumber-js": "^1.12.10",
+    "lucide-react": "^0.525.0",
+    "motion": "^12.23.12",
+    "next": "15.3.5",
+    "next-intl": "^4.3.4",
+    "react": "^19.0.0",
+    "react-country-phone-input": "^1.0.2",
+    "react-dom": "^19.0.0",
+    "react-international-phone": "^4.6.0",
+    "react-intersection-observer": "^9.16.0",
+    "react-leaflet": "^5.0.0",
+    "react-phone-input-2": "^2.15.1",
+    "tailwind-scrollbar-hide": "^4.0.0",
+    "twemoji": "^14.0.2"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/leaflet": "^1.9.20",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.5",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
